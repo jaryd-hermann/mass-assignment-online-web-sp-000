@@ -1,3 +1,6 @@
 class Person
-  #your code here
+  #your code her
+  def initialize(attributes)
+    
+  end
 end
